@@ -1,4 +1,4 @@
-3
+1
 |||
 Welcome to this KODI Build
 
